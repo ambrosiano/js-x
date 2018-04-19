@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Lorem Ipsum</title>
+    <style>
+        body{
+            font-family: sans-serif;
+            color:black;
+        }
+        #banner{
+            height: 80px;
+            width: 60%;
+            color: darkred;
+            padding: 6px;
+            background-color: #ff970b;
+            text-align: center;
+        }
+        #container{
+            background-color: #fdf3e7;
+            height:250px;
+            width: 60%;
+            padding: 6px;
+            text-align: left
+        }
+        button{
+            color:black;
+            border: 6px;
+            padding: 8px;
+            margin-left: 4px;
+            margin-right: 4px;
+            margin-top: 8px;
+            border-radius: 8px;
+            background-color:bisque;
+            width: 60px;
+        }
+        #buttongroup{
+            height: 80;
+            width: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="banner">
+        <h1>Lorem Ipsum</h1>
+    </div>
+    <div id="container">
+    </div>
+    <div id=buttongroup>
+        <button id="display" onclick="displayAction()">Display</button>
+        <button id="clear" onclick="clearAction()">Clear</button>
+    </div>
+    
+    <script type="application/javascript">
+        var lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+        
+        function displayAction(){
+            document.getElementById("container").innerHTML = lorem;
+        }
+        function clearAction(){
+            document.getElementById("container").innerHTML = "";
+        }
+        
+        
+    </script>
+    
+</body>
+
+</html>
