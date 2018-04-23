@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>d3 Graph</title>
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <style>
+          .circle {
+              fill:red;
+          }
+      </style>
+  </head>
+  <body>
+      <svg width="300" height="300">
+      </svg>
+      <script>
+            points = [ // For scatter plot
+              { x: 1, y: 10 },
+              { x: 10, y: 20 },
+              { x: 16, y: 40 },
+              { x: 20, y: 80 }
+            ];
+            // Define the axis scales.
+            var x = d3.scaleLinear()
+                .domain([0, 20])
+                .range([0,200]);
+            var y = d3.scaleLinear()
+              .domain([0, 100])
+              .range([200, 0]);
+          
+            // Create a set of new circles to be added to the svg element by
+            // selecting all circle (uncreated) elements, binding them to the
+            // data points, and "entering" the element creation process.
+            var circles = d3.select('svg').selectAll('circle').data(points).enter();
+            // Append new circles with position properties bound to data.
+            circles.append('circle')
+                .attr('r',5)
+                .attr('fill',"red")
+                .attr('cx',function(d,i){return x(d.x);})
+                .attr('cy',function(d,i){return y(d.y);});
+          
+      </script>
+  </body>
+</html>
