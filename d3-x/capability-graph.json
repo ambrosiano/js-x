@@ -1,0 +1,762 @@
+{
+    "links": [
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for medical countermeasures, public health, healthcare"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Legality, judicial, policy for planning"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning: overall integration"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for communication"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for analytics and assessments"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for community preparation, participation, resilience"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for intel and information"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for proactive and physical protection"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for surveillance, detection, discovery, and characterization"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for deactivation, containment, reduction"
+        },
+        {
+            "source": "Planning/preparing/training",
+            "target": "Planning for response and recovery"
+        },
+        {
+            "source": "Medical countermeasures, public health, healthcare",
+            "target": "Planning for medical countermeasures, public health, healthcare"
+        },
+        {
+            "source": "Medical countermeasures, public health, healthcare",
+            "target": "Communication for medical countermeasures, public health, healthcare"
+        },
+        {
+            "source": "Medical countermeasures, public health, healthcare",
+            "target": "Hospital/medical facility-based"
+        },
+        {
+            "source": "Medical countermeasures, public health, healthcare",
+            "target": "Field/improvised facility"
+        },
+        {
+            "source": "Medical countermeasures, public health, healthcare",
+            "target": "Legality, judicial, policy for medical countermeasures, public health, healthcare"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for planning"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for medical countermeasures, public health, healthcare"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy: overall integration"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for communication"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for analytics and assessments"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for community preparation, participation, resilience"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for intelligence and information"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for proactive and physical protection"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for surveillance, detection, discovery, characterization"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for deactivation, containment, reduction"
+        },
+        {
+            "source": "Legality, judicial, policy",
+            "target": "Legality, judicial, policy for response and recovery"
+        },
+        {
+            "source": "Communication",
+            "target": "Planning for communication"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for medical countermeasures, public health, healthcare"
+        },
+        {
+            "source": "Communication",
+            "target": "Legality, judicial, policy for communication"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication: overall integration"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for analytics and assessments"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for community preparation, participation, resilience"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for intel and information"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for proactive and physical protection"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for surveillance, detection, discovery, and characterization"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for deactivation, containment, reduction"
+        },
+        {
+            "source": "Communication",
+            "target": "Communication for response and recovery"
+        },
+        {
+            "source": "Analytics and assessments",
+            "target": "Planning for analytics and assessments"
+        },
+        {
+            "source": "Analytics and assessments",
+            "target": "Legality, judicial, policy for analytics and assessments"
+        },
+        {
+            "source": "Analytics and assessments",
+            "target": "Communication for analytics and assessments"
+        },
+        {
+            "source": "Analytics and assessments",
+            "target": "Assessments"
+        },
+        {
+            "source": "Analytics and assessments",
+            "target": "Predictive analytics, simulation, and modeling"
+        },
+        {
+            "source": "Assessments",
+            "target": "Threat assessments"
+        },
+        {
+            "source": "Assessments",
+            "target": "Risk, vulnerability, and resilience assessments"
+        },
+        {
+            "source": "Assessments",
+            "target": "Capability assessments"
+        },
+        {
+            "source": "Predictive analytics, simulation, and modeling",
+            "target": "Dissemination and dispersion models"
+        },
+        {
+            "source": "Predictive analytics, simulation, and modeling",
+            "target": "Predictive analytics"
+        },
+        {
+            "source": "Predictive analytics, simulation, and modeling",
+            "target": "Information integration and analysis; knowledge management"
+        },
+        {
+            "source": "Community preparation, participation, resilience",
+            "target": "Planning for community preparation, participation, resilience"
+        },
+        {
+            "source": "Community preparation, participation, resilience",
+            "target": "Communication for community preparation, participation, resilience"
+        },
+        {
+            "source": "Community preparation, participation, resilience",
+            "target": "Community responsiveness and compliance"
+        },
+        {
+            "source": "Community preparation, participation, resilience",
+            "target": "Community health and resilience"
+        },
+        {
+            "source": "Intelligence and information",
+            "target": "Planning for intel and information"
+        },
+        {
+            "source": "Intelligence and information",
+            "target": "Legality, judicial, policy for intelligence and information"
+        },
+        {
+            "source": "Intelligence and information",
+            "target": "Communication for intel and information"
+        },
+        {
+            "source": "Intelligence and information",
+            "target": "Information gathering and disseminating"
+        },
+        {
+            "source": "Intelligence and information",
+            "target": "Intelligence and intel tradecraft"
+        },
+        {
+            "source": "Intelligence and information",
+            "target": "Nonproliferation and diplomacy"
+        },
+        {
+            "source": "Intelligence and intel tradecraft",
+            "target": "Intelligence data and data dissemination"
+        },
+        {
+            "source": "Intelligence and intel tradecraft",
+            "target": "Counter-intelligence"
+        },
+        {
+            "source": "Intelligence and intel tradecraft",
+            "target": "Deterrence"
+        },
+        {
+            "source": "Proactive and physical protection",
+            "target": "Planning for proactive and physical protection"
+        },
+        {
+            "source": "Proactive and physical protection",
+            "target": "Legality, judicial, policy for proactive and physical protection"
+        },
+        {
+            "source": "Proactive and physical protection",
+            "target": "Communication for proactive and physical protection"
+        },
+        {
+            "source": "Proactive and physical protection",
+            "target": "Access control and identity verification"
+        },
+        {
+            "source": "Proactive and physical protection",
+            "target": "Physical protective measures"
+        },
+        {
+            "source": "Proactive and physical protection",
+            "target": "Cybersecurity/data security"
+        },
+        {
+            "source": "Access control and identity verification",
+            "target": "Internal (allowed workers)"
+        },
+        {
+            "source": "Access control and identity verification",
+            "target": "External (not allowed/non-workers)"
+        },
+        {
+            "source": "Physical protective measures",
+            "target": "Facilities/sites/infrastructure"
+        },
+        {
+            "source": "Physical protective measures",
+            "target": "Supply chain, equipment, PPE"
+        },
+        {
+            "source": "Surveillance, detection, discovery, characterization",
+            "target": "Planning for surveillance, detection, discovery, and characterization"
+        },
+        {
+            "source": "Surveillance, detection, discovery, characterization",
+            "target": "Legality, judicial, policy for surveillance, detection, discovery, characterization"
+        },
+        {
+            "source": "Surveillance, detection, discovery, characterization",
+            "target": "Communication for surveillance, detection, discovery, and characterization"
+        },
+        {
+            "source": "Surveillance, detection, discovery, characterization",
+            "target": "Agent/material-based detection"
+        },
+        {
+            "source": "Surveillance, detection, discovery, characterization",
+            "target": "Activity-based detection and discovery"
+        },
+        {
+            "source": "Surveillance, detection, discovery, characterization",
+            "target": "Agent/material characterization"
+        },
+        {
+            "source": "Agent/material-based detection",
+            "target": "Environmental/physical"
+        },
+        {
+            "source": "Agent/material-based detection",
+            "target": "Clinical/syndromic exposure-based"
+        },
+        {
+            "source": "Agent/material-based detection",
+            "target": "Epidemiological- and surveillance-based"
+        },
+        {
+            "source": "Activity-based detection and discovery",
+            "target": "Technical surveillance"
+        },
+        {
+            "source": "Activity-based detection and discovery",
+            "target": "Screen, search, discovery operations"
+        },
+        {
+            "source": "Activity-based detection and discovery",
+            "target": "Interdiction and disruption"
+        },
+        {
+            "source": "Agent/material characterization",
+            "target": "Microbiological/biochemical/omics characterization"
+        },
+        {
+            "source": "Agent/material characterization",
+            "target": "Chemical characterization"
+        },
+        {
+            "source": "Agent/material characterization",
+            "target": "Signature identification and characterization"
+        },
+        {
+            "source": "Agent/material characterization",
+            "target": "Technical forensics"
+        },
+        {
+            "source": "Deactivate, contain, reduce",
+            "target": "Planning for deactivation, containment, reduction"
+        },
+        {
+            "source": "Deactivate, contain, reduce",
+            "target": "Legality, judicial, policy for deactivation, containment, reduction"
+        },
+        {
+            "source": "Deactivate, contain, reduce",
+            "target": "Communication for deactivation, containment, reduction"
+        },
+        {
+            "source": "Deactivate, contain, reduce",
+            "target": "Contain and quarantine"
+        },
+        {
+            "source": "Deactivate, contain, reduce",
+            "target": "Deactivate and decontaminate"
+        },
+        {
+            "source": "Response and recovery",
+            "target": "Planning for response and recovery"
+        },
+        {
+            "source": "Response and recovery",
+            "target": "Legality, judicial, policy for response and recovery"
+        },
+        {
+            "source": "Response and recovery",
+            "target": "Communication for response and recovery"
+        },
+        {
+            "source": "Response and recovery",
+            "target": "Response operations"
+        },
+        {
+            "source": "Response and recovery",
+            "target": "Recovery operations"
+        },
+        {
+            "source": "Response operations",
+            "target": "General operations"
+        },
+        {
+            "source": "Response operations",
+            "target": "Environment and population support"
+        },
+        {
+            "source": "Recovery operations",
+            "target": "Safety"
+        },
+        {
+            "source": "Recovery operations",
+            "target": "Affected and displaced population support"
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Planning/preparing/training"
+        },
+        {
+            "group": 1,
+            "id": "Planning for medical countermeasures, public health, healthcare"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for planning"
+        },
+        {
+            "group": 1,
+            "id": "Planning: overall integration"
+        },
+        {
+            "group": 1,
+            "id": "Planning for communication"
+        },
+        {
+            "group": 1,
+            "id": "Planning for analytics and assessments"
+        },
+        {
+            "group": 1,
+            "id": "Planning for community preparation, participation, resilience"
+        },
+        {
+            "group": 1,
+            "id": "Planning for intel and information"
+        },
+        {
+            "group": 1,
+            "id": "Planning for proactive and physical protection"
+        },
+        {
+            "group": 1,
+            "id": "Planning for surveillance, detection, discovery, and characterization"
+        },
+        {
+            "group": 1,
+            "id": "Planning for deactivation, containment, reduction"
+        },
+        {
+            "group": 1,
+            "id": "Planning for response and recovery"
+        },
+        {
+            "group": 1,
+            "id": "Medical countermeasures, public health, healthcare"
+        },
+        {
+            "group": 1,
+            "id": "Communication for medical countermeasures, public health, healthcare"
+        },
+        {
+            "group": 1,
+            "id": "Hospital/medical facility-based"
+        },
+        {
+            "group": 1,
+            "id": "Field/improvised facility"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for medical countermeasures, public health, healthcare"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy: overall integration"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for communication"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for analytics and assessments"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for community preparation, participation, resilience"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for intelligence and information"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for proactive and physical protection"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for surveillance, detection, discovery, characterization"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for deactivation, containment, reduction"
+        },
+        {
+            "group": 1,
+            "id": "Legality, judicial, policy for response and recovery"
+        },
+        {
+            "group": 1,
+            "id": "Communication"
+        },
+        {
+            "group": 1,
+            "id": "Communication: overall integration"
+        },
+        {
+            "group": 1,
+            "id": "Communication for analytics and assessments"
+        },
+        {
+            "group": 1,
+            "id": "Communication for community preparation, participation, resilience"
+        },
+        {
+            "group": 1,
+            "id": "Communication for intel and information"
+        },
+        {
+            "group": 1,
+            "id": "Communication for proactive and physical protection"
+        },
+        {
+            "group": 1,
+            "id": "Communication for surveillance, detection, discovery, and characterization"
+        },
+        {
+            "group": 1,
+            "id": "Communication for deactivation, containment, reduction"
+        },
+        {
+            "group": 1,
+            "id": "Communication for response and recovery"
+        },
+        {
+            "group": 1,
+            "id": "Analytics and assessments"
+        },
+        {
+            "group": 1,
+            "id": "Assessments"
+        },
+        {
+            "group": 1,
+            "id": "Predictive analytics, simulation, and modeling"
+        },
+        {
+            "group": 1,
+            "id": "Threat assessments"
+        },
+        {
+            "group": 1,
+            "id": "Risk, vulnerability, and resilience assessments"
+        },
+        {
+            "group": 1,
+            "id": "Capability assessments"
+        },
+        {
+            "group": 1,
+            "id": "Dissemination and dispersion models"
+        },
+        {
+            "group": 1,
+            "id": "Predictive analytics"
+        },
+        {
+            "group": 1,
+            "id": "Information integration and analysis; knowledge management"
+        },
+        {
+            "group": 1,
+            "id": "Community preparation, participation, resilience"
+        },
+        {
+            "group": 1,
+            "id": "Community responsiveness and compliance"
+        },
+        {
+            "group": 1,
+            "id": "Community health and resilience"
+        },
+        {
+            "group": 1,
+            "id": "Intelligence and information"
+        },
+        {
+            "group": 1,
+            "id": "Information gathering and disseminating"
+        },
+        {
+            "group": 1,
+            "id": "Intelligence and intel tradecraft"
+        },
+        {
+            "group": 1,
+            "id": "Nonproliferation and diplomacy"
+        },
+        {
+            "group": 1,
+            "id": "Intelligence data and data dissemination"
+        },
+        {
+            "group": 1,
+            "id": "Counter-intelligence"
+        },
+        {
+            "group": 1,
+            "id": "Deterrence"
+        },
+        {
+            "group": 1,
+            "id": "Proactive and physical protection"
+        },
+        {
+            "group": 1,
+            "id": "Access control and identity verification"
+        },
+        {
+            "group": 1,
+            "id": "Physical protective measures"
+        },
+        {
+            "group": 1,
+            "id": "Cybersecurity/data security"
+        },
+        {
+            "group": 1,
+            "id": "Internal (allowed workers)"
+        },
+        {
+            "group": 1,
+            "id": "External (not allowed/non-workers)"
+        },
+        {
+            "group": 1,
+            "id": "Facilities/sites/infrastructure"
+        },
+        {
+            "group": 1,
+            "id": "Supply chain, equipment, PPE"
+        },
+        {
+            "group": 1,
+            "id": "Surveillance, detection, discovery, characterization"
+        },
+        {
+            "group": 1,
+            "id": "Agent/material-based detection"
+        },
+        {
+            "group": 1,
+            "id": "Activity-based detection and discovery"
+        },
+        {
+            "group": 1,
+            "id": "Agent/material characterization"
+        },
+        {
+            "group": 1,
+            "id": "Environmental/physical"
+        },
+        {
+            "group": 1,
+            "id": "Clinical/syndromic exposure-based"
+        },
+        {
+            "group": 1,
+            "id": "Epidemiological- and surveillance-based"
+        },
+        {
+            "group": 1,
+            "id": "Technical surveillance"
+        },
+        {
+            "group": 1,
+            "id": "Screen, search, discovery operations"
+        },
+        {
+            "group": 1,
+            "id": "Interdiction and disruption"
+        },
+        {
+            "group": 1,
+            "id": "Microbiological/biochemical/omics characterization"
+        },
+        {
+            "group": 1,
+            "id": "Chemical characterization"
+        },
+        {
+            "group": 1,
+            "id": "Signature identification and characterization"
+        },
+        {
+            "group": 1,
+            "id": "Technical forensics"
+        },
+        {
+            "group": 1,
+            "id": "Deactivate, contain, reduce"
+        },
+        {
+            "group": 1,
+            "id": "Contain and quarantine"
+        },
+        {
+            "group": 1,
+            "id": "Deactivate and decontaminate"
+        },
+        {
+            "group": 1,
+            "id": "Response and recovery"
+        },
+        {
+            "group": 1,
+            "id": "Response operations"
+        },
+        {
+            "group": 1,
+            "id": "Recovery operations"
+        },
+        {
+            "group": 1,
+            "id": "General operations"
+        },
+        {
+            "group": 1,
+            "id": "Environment and population support"
+        },
+        {
+            "group": 1,
+            "id": "Safety"
+        },
+        {
+            "group": 1,
+            "id": "Affected and displaced population support"
+        }
+    ]
+}
