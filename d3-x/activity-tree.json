@@ -1,0 +1,125 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "activity_III.F:Treat People/Care for Public",
+            "children": [
+                {
+                    "name": "activity_III.F.1:Treat Post-Release",
+                    "children": [
+                        {
+                            "name": "activity_III.G:Enact Recovery",
+                            "children": [
+                                {
+                                    "name": "activity_III.G.1:Perform Forensics Attribution",
+                                    "children": [
+                                        {
+                                            "name": "activity_II.D:Detect Event",
+                                            "children": [
+                                                {
+                                                    "name": "activity_II.D.2:In Vivo Detection",
+                                                    "children": [
+                                                        {
+                                                            "name": "activity_I.A:Acquire",
+                                                            "children": [
+                                                                {
+                                                                    "name": "activity_I.A.1:Acquire Agent",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "activity_III.E:Respond Ensure Safety",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "activity_III.E.3:Protect Responder Health & Safety",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "activity_III.D:Respond Rescue On-Scene",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "activity_III.D.1:Perform Site Operations",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "activity_III.C:Characterize the Attack",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "activity_III.C.1:Assess & Gather Information On Scene",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "activity_I.C:Test",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "activity_I.C.1:Test Agent or Material"
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "name": "activity_I.C.2:Test Device/Dissemination System"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "activity_III.C.2:Characterize Agent Dispersion"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "activity_III.C.3:Characterize Agent-Clinical/Laboratory"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "activity_III.D.3:Rescue Decontaminate"
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "activity_III.D.2:Locate ID Casualties, Exposed"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "activity_III.E.1:Take Emergency Actions"
+                                                                                },
+                                                                                {
+                                                                                    "name": "activity_III.E.2:Quarantine, Cull, Burn, Recall"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "activity_I.A.2:Acquire Equipment and Supplies"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "activity_II.D.1:Physical Detection"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "activity_III.G.2:Perform Long-Term Environmental Recovery"
+                                },
+                                {
+                                    "name": "activity_III.G.3:Enact Long-Term Health Recovery"
+                                },
+                                {
+                                    "name": "activity_III.G.4:Engage Infrastructure & Economic Recovery"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "activity_III.F.2:Stabilize Treat On-Scene"
+                },
+                {
+                    "name": "activity_III.F.3:Treat Give Care at Medical Facility"
+                }
+            ]
+        }
+    ]
+}
