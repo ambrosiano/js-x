@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js">
+    </script>
+    <script src="grid.js"></script>
+</head>
+    <body>
+    <script>
+    $().ready(function(){
+        var g = new Grid(8,8);
+        $("p").append("Grid: nx="+g.nx+", ny="+g.ny+'<br>');
+        g.data[4][4] = 1.0;
+    for(var i=0;i<g.ny;i++){
+        for(var j=0;j<g.nx;j++){
+            $("p").append(g.data[i][j]+" ");
+        }
+        $("p").append("<br>");
+    }
+    });
+    </script>
+        
+        
+    <p>Grid Test: </p>
+
+        
+
+    </body>
+
+
+</html>
