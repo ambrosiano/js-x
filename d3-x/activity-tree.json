@@ -1,0 +1,213 @@
+{
+  "name": "Activities",
+  "children": [
+    {
+      "name": "stage_II",
+      "children": [
+        {
+          "name": "activity_II.B"
+        },
+        {
+          "name": "activity_II.A"
+        },
+        {
+          "name": "activity_II.C"
+        },
+        {
+          "name": "activity_II.D.2"
+        },
+        {
+          "name": "activity_II.D.1"
+        },
+        {
+          "name": "activity_II.D",
+          "children": [
+            {
+              "name": "activity_II.D.2"
+            },
+            {
+              "name": "activity_II.D.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "stage_I",
+      "children": [
+        {
+          "name": "activity_I.B"
+        },
+        {
+          "name": "activity_I.C.1"
+        },
+        {
+          "name": "activity_I.A.1"
+        },
+        {
+          "name": "activity_I.A.2"
+        },
+        {
+          "name": "activity_I.C.2"
+        },
+        {
+          "name": "activity_I.C",
+          "children": [
+            {
+              "name": "activity_I.C.1"
+            },
+            {
+              "name": "activity_I.C.2"
+            }
+          ]
+        },
+        {
+          "name": "activity_I.D"
+        },
+        {
+          "name": "activity_I.A",
+          "children": [
+            {
+              "name": "activity_I.A.1"
+            },
+            {
+              "name": "activity_I.A.2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "stage_III",
+      "children": [
+        {
+          "name": "activity_III.C.1"
+        },
+        {
+          "name": "activity_III.B"
+        },
+        {
+          "name": "activity_III.F",
+          "children": [
+            {
+              "name": "activity_III.F.1"
+            },
+            {
+              "name": "activity_III.F.2"
+            },
+            {
+              "name": "activity_III.F.3"
+            }
+          ]
+        },
+        {
+          "name": "activity_III.D.1"
+        },
+        {
+          "name": "activity_III.E.3"
+        },
+        {
+          "name": "activity_III.A"
+        },
+        {
+          "name": "activity_III.G.1"
+        },
+        {
+          "name": "activity_III.D.3"
+        },
+        {
+          "name": "activity_III.E.1"
+        },
+        {
+          "name": "activity_III.C.2"
+        },
+        {
+          "name": "activity_III.F.1"
+        },
+        {
+          "name": "activity_III.C.3"
+        },
+        {
+          "name": "activity_III.F.2"
+        },
+        {
+          "name": "activity_III.F.3"
+        },
+        {
+          "name": "activity_III.D.2"
+        },
+        {
+          "name": "activity_III.G.2"
+        },
+        {
+          "name": "activity_III.G.3"
+        },
+        {
+          "name": "activity_III.G.4"
+        },
+        {
+          "name": "activity_III.E.2"
+        },
+        {
+          "name": "activity_III.G",
+          "children": [
+            {
+              "name": "activity_III.G.1"
+            },
+            {
+              "name": "activity_III.G.2"
+            },
+            {
+              "name": "activity_III.G.3"
+            },
+            {
+              "name": "activity_III.G.4"
+            }
+          ]
+        },
+        {
+          "name": "activity_III.C",
+          "children": [
+            {
+              "name": "activity_III.C.1"
+            },
+            {
+              "name": "activity_III.C.2"
+            },
+            {
+              "name": "activity_III.C.3"
+            }
+          ]
+        },
+        {
+          "name": "activity_III.D",
+          "children": [
+            {
+              "name": "activity_III.D.1"
+            },
+            {
+              "name": "activity_III.D.3"
+            },
+            {
+              "name": "activity_III.D.2"
+            }
+          ]
+        },
+        {
+          "name": "activity_III.E",
+          "children": [
+            {
+              "name": "activity_III.E.3"
+            },
+            {
+              "name": "activity_III.E.1"
+            },
+            {
+              "name": "activity_III.E.2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
