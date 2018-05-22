@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
 <head>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js">
-    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/4.3.0/math.min.js"></script>
     <script src="grid.js"></script>
 </head>
     <body>
@@ -10,10 +10,10 @@
     $().ready(function(){
         var g = new Grid(8,8);
         $("p").append("Grid: nx="+g.nx+", ny="+g.ny+'<br>');
-        g.data[4][4] = 1.0;
+        g.data.set([i,j],1.0);
     for(var i=0;i<g.ny;i++){
         for(var j=0;j<g.nx;j++){
-            $("p").append(g.data[i][j]+" ");
+            $("p").append(g.data.get([i,j])+" ");
         }
         $("p").append("<br>");
     }
