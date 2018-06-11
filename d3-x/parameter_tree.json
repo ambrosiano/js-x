@@ -1,0 +1,1069 @@
+{
+  "name": "-",
+  "children": [
+    {
+      "name": "1: Geographic, geopolitical, location parameters",
+      "children": [
+        {
+          "name": "1.1: Locations for acquire/produce/transport",
+          "children": [
+            {
+              "name": "1.1.1: Location: Geopolitical",
+              "children": [
+                {
+                  "name": "1.1.1.2: Foreign/OCONUS",
+                  "children": [
+                    {
+                      "name": "1.1.1.2.7: BWC non-signatory"
+                    },
+                    {
+                      "name": "1.1.1.2.5: BWC ratified or succeeded"
+                    },
+                    {
+                      "name": "1.1.1.2.6: BWC signed or abiding"
+                    },
+                    {
+                      "name": "1.1.1.2.1: Canada"
+                    },
+                    {
+                      "name": "1.1.1.2.10: CWC non-signatory"
+                    },
+                    {
+                      "name": "1.1.1.2.8: CWC ratified or succeeded"
+                    },
+                    {
+                      "name": "1.1.1.2.9: CWC signed or abiding"
+                    },
+                    {
+                      "name": "1.1.1.2.3: Friendly/cooperative"
+                    },
+                    {
+                      "name": "1.1.1.2.2: Mexico"
+                    },
+                    {
+                      "name": "1.1.1.2.4: Unfriendly/uncooperative"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.1.1.1: U.S.",
+                  "children": [
+                    {
+                      "name": "1.1.1.1.1: U.S./Domestic - CONUS"
+                    },
+                    {
+                      "name": "1.1.1.1.2: U.S./Domestic - OCONUS"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.4: Locations for detect/diagnostics",
+          "children": [
+            {
+              "name": "1.4.2: Locations-diagnostics by laboratory skill",
+              "children": [
+                {
+                  "name": "1.4.2.1: Laboratory type",
+                  "children": [
+                    {
+                      "name": "1.4.2.1.6: Academic lab"
+                    },
+                    {
+                      "name": "1.4.2.1.9: BSL-2"
+                    },
+                    {
+                      "name": "1.4.2.1.8: BSL-3"
+                    },
+                    {
+                      "name": "1.4.2.1.7: BSL-4"
+                    },
+                    {
+                      "name": "1.4.2.1.4: Hospital lab"
+                    },
+                    {
+                      "name": "1.4.2.1.1: Laboratory response network lab"
+                    },
+                    {
+                      "name": "1.4.2.1.10: Other"
+                    },
+                    {
+                      "name": "1.4.2.1.2: Other gov. lab"
+                    },
+                    {
+                      "name": "1.4.2.1.5: Other state lab"
+                    },
+                    {
+                      "name": "1.4.2.1.3: State public health lab"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1.4.1: Locations-diagnostic/symptom observer skill",
+              "children": [
+                {
+                  "name": "1.4.1.2: Animal Diagnosis",
+                  "children": [
+                    {
+                      "name": "1.4.1.2.2: Domestic animals",
+                      "children": [
+                        {
+                          "name": "1.4.1.2.2.2: Public"
+                        },
+                        {
+                          "name": "1.4.1.2.2.1: Vet"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "1.4.1.2.1: Livestock",
+                      "children": [
+                        {
+                          "name": "1.4.1.2.1.2: CAFO"
+                        },
+                        {
+                          "name": "1.4.1.2.1.1: Farm"
+                        },
+                        {
+                          "name": "1.4.1.2.1.3: Slaughterhouse"
+                        },
+                        {
+                          "name": "1.4.1.2.1.4: Transit"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "1.4.1.2.3: Wildlife",
+                      "children": [
+                        {
+                          "name": "1.4.1.2.3.2: In field by public"
+                        },
+                        {
+                          "name": "1.4.1.2.3.1: Outdoors-by local/state agents"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "1.4.1.1: Human diagnosis",
+                  "children": [
+                    {
+                      "name": "1.4.1.1.3: Clinic/other pos"
+                    },
+                    {
+                      "name": "1.4.1.1.6: Cyber"
+                    },
+                    {
+                      "name": "1.4.1.1.1: Major hospital"
+                    },
+                    {
+                      "name": "1.4.1.1.4: Public-outdoor (In field)"
+                    },
+                    {
+                      "name": "1.4.1.1.5: Public work places (In field)"
+                    },
+                    {
+                      "name": "1.4.1.1.2: Regional hospital"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.4.1.4: Insect diagnosis",
+                  "children": [
+                    {
+                      "name": "1.4.1.4.2: In field/outdoors by public"
+                    },
+                    {
+                      "name": "1.4.1.4.1: Outdoors by local/state agents"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.4.1.3: Plants diagnosis",
+                  "children": [
+                    {
+                      "name": "1.4.1.3.1: In situ crops"
+                    },
+                    {
+                      "name": "1.4.1.3.4: Natural/cultural resources"
+                    },
+                    {
+                      "name": "1.4.1.3.2: Orchards"
+                    },
+                    {
+                      "name": "1.4.1.3.3: Parklands"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.5: Locations for medical response/recovery",
+          "children": [
+            {
+              "name": "1.5.1: Location-med. facility type, level, skill",
+              "children": [
+                {
+                  "name": "1.5.1.1: Hospital type by trauma level",
+                  "children": [
+                    {
+                      "name": "1.5.1.1.3: Level III trauma"
+                    },
+                    {
+                      "name": "1.5.1.1.2: Level II trauma"
+                    },
+                    {
+                      "name": "1.5.1.1.1: Level I trauma"
+                    },
+                    {
+                      "name": "1.5.1.1.4: Level IV trauma"
+                    },
+                    {
+                      "name": "1.5.1.1.5: Level V trauma"
+                    },
+                    {
+                      "name": "1.5.1.1.6: Unclassified"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.6: Locations for quarantine/shelter/treat",
+          "children": [
+            {
+              "name": "1.6.1: Locations-quarantine/shelter",
+              "children": [
+                {
+                  "name": "1.6.1.2: By laws/type",
+                  "children": [
+                    {
+                      "name": "1.6.1.2.1: Conditional release"
+                    },
+                    {
+                      "name": "1.6.1.2.4: Full barrier"
+                    },
+                    {
+                      "name": "1.6.1.2.6: In home/restrict movement"
+                    },
+                    {
+                      "name": "1.6.1.2.2: Isolation"
+                    },
+                    {
+                      "name": "1.6.1.2.3: Quarantine"
+                    },
+                    {
+                      "name": "1.6.1.2.9: (See BTRA)"
+                    },
+                    {
+                      "name": "1.6.1.2.10: (See CTRA)"
+                    },
+                    {
+                      "name": "1.6.1.2.5: Separate location"
+                    },
+                    {
+                      "name": "1.6.1.2.8: Under 361 PHS Act (42. U.S. Code ?\u00ba 264)"
+                    },
+                    {
+                      "name": "1.6.1.2.7: Under 42 CFR parts 70 and 71 (82 FR 6890)"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.6.1.1: By location",
+                  "children": [
+                    {
+                      "name": "1.6.1.1.4: At a hospital"
+                    },
+                    {
+                      "name": "1.6.1.1.6: At import/border facility"
+                    },
+                    {
+                      "name": "1.6.1.1.5: At other medical facility"
+                    },
+                    {
+                      "name": "1.6.1.1.7: At transport facility"
+                    },
+                    {
+                      "name": "1.6.1.1.3: In the field (Farm/ranch animals or plants)"
+                    },
+                    {
+                      "name": "1.6.1.1.2: In the field (Human-keep people in)"
+                    },
+                    {
+                      "name": "1.6.1.1.1: In the field (Human-keep people out)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.3: Locations for release/recovery",
+          "children": [
+            {
+              "name": "1.3.2: Locations-environmental conditions",
+              "children": [
+                {
+                  "name": "1.3.2.1: Environment properties",
+                  "children": [
+                    {
+                      "name": "1.3.2.1.4: Humidity"
+                    },
+                    {
+                      "name": "1.3.2.1.2: Sun"
+                    },
+                    {
+                      "name": "1.3.2.1.3: Temp"
+                    },
+                    {
+                      "name": "1.3.2.1.1: Wind"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1.3.1: Locations - U.S. regions, states, jurisdictions",
+              "children": [
+                {
+                  "name": "1.3.1.5: By city",
+                  "children": [
+                    {
+                      "name": "1.3.1.5.3: Chicago"
+                    },
+                    {
+                      "name": "1.3.1.5.4: Dallas-Fort Worth"
+                    },
+                    {
+                      "name": "1.3.1.5.6: Houston"
+                    },
+                    {
+                      "name": "1.3.1.5.2: Los Angeles"
+                    },
+                    {
+                      "name": "1.3.1.5.1: New York"
+                    },
+                    {
+                      "name": "1.3.1.5.5: Philadelphia"
+                    },
+                    {
+                      "name": "1.3.1.5.8: (See also full CTRA list)"
+                    },
+                    {
+                      "name": "1.3.1.5.7: Washington"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.3.1.1: By CTRA/BTRA regions",
+                  "children": [
+                    {
+                      "name": "1.3.1.1.1: Gulf Coast"
+                    },
+                    {
+                      "name": "1.3.1.1.2: Mid-Atlantic"
+                    },
+                    {
+                      "name": "1.3.1.1.3: Midwest"
+                    },
+                    {
+                      "name": "1.3.1.1.5: Northeast"
+                    },
+                    {
+                      "name": "1.3.1.1.4: Ohio Valley"
+                    },
+                    {
+                      "name": "1.3.1.1.6: South"
+                    },
+                    {
+                      "name": "1.3.1.1.7: West Coast"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.3.1.8: By distributor distribution network",
+                  "children": [
+                    {
+                      "name": "1.3.1.8.1: (Manufacturer specific)"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.3.1.2: By FEMA region",
+                  "children": [
+                    {
+                      "name": "1.3.1.2.11: Other distribution/geographic region"
+                    },
+                    {
+                      "name": "1.3.1.2.1: Region I: CT, MA, ME, NH, RI, VT"
+                    },
+                    {
+                      "name": "1.3.1.2.3: Region III: DC, DE, MD, PA, VA, WV"
+                    },
+                    {
+                      "name": "1.3.1.2.2: Region II: NJ, NY, PR, USVI"
+                    },
+                    {
+                      "name": "1.3.1.2.4: Region IV: AL, FL, GA, KY, MS, NC, SC, TN"
+                    },
+                    {
+                      "name": "1.3.1.2.9: Region IX,: AZ, CA, HI, NV, GU, AS +++"
+                    },
+                    {
+                      "name": "1.3.1.2.6: Region VI: AR, LA, NM, OK, TX"
+                    },
+                    {
+                      "name": "1.3.1.2.7: Region VII: IA, KS, MO, NE"
+                    },
+                    {
+                      "name": "1.3.1.2.8: Region VIII: CO, MT, ND, SD, UT, WY"
+                    },
+                    {
+                      "name": "1.3.1.2.5: Region V: IL, IN, MI, MN, OH, WI"
+                    },
+                    {
+                      "name": "1.3.1.2.10: Region X: AK (Alaska), ID, OR, WA"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.3.1.6: By food distribution region"
+                },
+                {
+                  "name": "1.3.1.7: By producer/company owner",
+                  "children": [
+                    {
+                      "name": "1.3.1.7.2: Foreign owned"
+                    },
+                    {
+                      "name": "1.3.1.7.1: U.S. owned"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.3.1.3: By state/territory",
+                  "children": [
+                    {
+                      "name": "1.3.1.3.1: (State/territory list)"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.3.1.4: By tribal or federal land area",
+                  "children": [
+                    {
+                      "name": "1.3.1.4.1: (Tribal/fed land lists)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1.2: Locations for transport",
+          "children": [
+            {
+              "name": "1.2.1: Location: border-crossing mode",
+              "children": [
+                {
+                  "name": "1.2.1.2: Legitimate delivery"
+                },
+                {
+                  "name": "1.2.1.1: Smuggling"
+                }
+              ]
+            },
+            {
+              "name": "1.2.2: Location: ports, borders, checkpoints",
+              "children": [
+                {
+                  "name": "1.2.2.3: Border and checkpoint crossing",
+                  "children": [
+                    {
+                      "name": "1.2.2.3.2: Into foreign country"
+                    },
+                    {
+                      "name": "1.2.2.3.1: Into U.S. by port of entry (CBP list)"
+                    }
+                  ]
+                },
+                {
+                  "name": "1.2.2.2: Border, no checkpoint",
+                  "children": [
+                    {
+                      "name": "1.2.2.2.2: Into foreign country"
+                    },
+                    {
+                      "name": "1.2.2.2.1: Into U.S."
+                    }
+                  ]
+                },
+                {
+                  "name": "1.2.2.1: No border crossing",
+                  "children": [
+                    {
+                      "name": "1.2.2.1.2: Within foreign country"
+                    },
+                    {
+                      "name": "1.2.2.1.1: Within U.S."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2: Population/magnitude factors and parameters",
+      "children": [
+        {
+          "name": "2.2: Population-dispersion",
+          "children": [
+            {
+              "name": "2.2.1: Population-localization factors",
+              "children": [
+                {
+                  "name": "2.2.1.2: Contained area of response",
+                  "children": [
+                    {
+                      "name": "2.2.1.2.1: Stationary population"
+                    }
+                  ]
+                },
+                {
+                  "name": "2.2.1.1: Not contained area of response",
+                  "children": [
+                    {
+                      "name": "2.2.1.1.1: High traceability, high mobility"
+                    },
+                    {
+                      "name": "2.2.1.1.3: High traceability, stationary populations"
+                    },
+                    {
+                      "name": "2.2.1.1.2: Low traceability, high mobility"
+                    },
+                    {
+                      "name": "2.2.1.1.4: Low traceability, stationary populations"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.3: Population exposure",
+          "children": [
+            {
+              "name": "2.3.1: Exposure mode",
+              "children": [
+                {
+                  "name": "2.3.1.3: Dermal (Contact/cutaneous)"
+                },
+                {
+                  "name": "2.3.1.2: Ingestion (Oral/gastrointestinal)"
+                },
+                {
+                  "name": "2.3.1.1: Inhalation"
+                },
+                {
+                  "name": "2.3.1.4: Injection (Unlikely for chem)"
+                },
+                {
+                  "name": "2.3.1.6: Vector (Contagious)"
+                }
+              ]
+            },
+            {
+              "name": "2.3.2: Exposure severity",
+              "children": [
+                {
+                  "name": "2.3.2.1: Dead"
+                },
+                {
+                  "name": "2.3.2.2: Life threatening"
+                },
+                {
+                  "name": "2.3.2.4: Mild/moderate"
+                },
+                {
+                  "name": "2.3.2.3: Severe"
+                },
+                {
+                  "name": "2.3.2.5: Worried well"
+                }
+              ]
+            },
+            {
+              "name": "2.3.3: Exposure state",
+              "children": [
+                {
+                  "name": "2.3.3.6: Dead"
+                },
+                {
+                  "name": "2.3.3.2: Incubating"
+                },
+                {
+                  "name": "2.3.3.4: Not seeking care"
+                },
+                {
+                  "name": "2.3.3.5: Recovering"
+                },
+                {
+                  "name": "2.3.3.3: Seeking care"
+                },
+                {
+                  "name": "2.3.3.1: Susceptible"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.4: Population factors for response magnitude",
+          "children": [
+            {
+              "name": "2.4.1: Population-density factors",
+              "children": [
+                {
+                  "name": "2.4.1.2: Size by possible number affected",
+                  "children": [
+                    {
+                      "name": "2.4.1.2.6: (Add full CTRA/BTRA city list)"
+                    },
+                    {
+                      "name": "2.4.1.2.1: Near large ubran area"
+                    },
+                    {
+                      "name": "2.4.1.2.2: Near medium urban area"
+                    },
+                    {
+                      "name": "2.4.1.2.3: Near small urban area"
+                    },
+                    {
+                      "name": "2.4.1.2.5: Other"
+                    },
+                    {
+                      "name": "2.4.1.2.4: Rural"
+                    }
+                  ]
+                },
+                {
+                  "name": "2.4.1.1: Size by victims (Casualty bin)",
+                  "children": [
+                    {
+                      "name": "2.4.1.1.7: 1"
+                    },
+                    {
+                      "name": "2.4.1.1.6: 10"
+                    },
+                    {
+                      "name": "2.4.1.1.5: 100"
+                    },
+                    {
+                      "name": "2.4.1.1.4: 1,000"
+                    },
+                    {
+                      "name": "2.4.1.1.3: 10,000"
+                    },
+                    {
+                      "name": "2.4.1.1.2: 100,000"
+                    },
+                    {
+                      "name": "2.4.1.1.1: 1,000,000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.5: Population-magnitude of medical response",
+          "children": [
+            {
+              "name": "2.5.1: Population-treatment length/level",
+              "children": [
+                {
+                  "name": "2.5.1.2: By critical-care level",
+                  "children": [
+                    {
+                      "name": "2.5.1.2.1: Level 0"
+                    },
+                    {
+                      "name": "2.5.1.2.2: Level 1"
+                    },
+                    {
+                      "name": "2.5.1.2.3: Level 2"
+                    },
+                    {
+                      "name": "2.5.1.2.4: Level 3 (ICU)"
+                    }
+                  ]
+                },
+                {
+                  "name": "2.5.1.1: By length of stay (LOS)",
+                  "children": [
+                    {
+                      "name": "2.5.1.1.2: 1 day"
+                    },
+                    {
+                      "name": "2.5.1.1.7: >1 month"
+                    },
+                    {
+                      "name": "2.5.1.1.3: 2-3 days"
+                    },
+                    {
+                      "name": "2.5.1.1.6: 2 weeks - 1 month"
+                    },
+                    {
+                      "name": "2.5.1.1.4: 4-7 days"
+                    },
+                    {
+                      "name": "2.5.1.1.5: 7 days - 2 weeks"
+                    },
+                    {
+                      "name": "2.5.1.1.1: Outpatient"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2.1: Population type for testing, targeting, public ID of exposure",
+          "children": [
+            {
+              "name": "2.1.2: Population-attack target group/type/mode",
+              "children": [
+                {
+                  "name": "2.1.2.2: Animals",
+                  "children": [
+                    {
+                      "name": "2.1.2.2.3: Agricultural/livestock"
+                    },
+                    {
+                      "name": "2.1.2.2.2: Hobby/backyard farm animals"
+                    },
+                    {
+                      "name": "2.1.2.2.4: Other animals"
+                    },
+                    {
+                      "name": "2.1.2.2.1: Pets/domesticated"
+                    }
+                  ]
+                },
+                {
+                  "name": "2.1.2.1: Humans"
+                },
+                {
+                  "name": "2.1.2.3: Insects"
+                },
+                {
+                  "name": "2.1.2.4: Plants & insects & other environmental targets"
+                }
+              ]
+            },
+            {
+              "name": "2.1.3: Population characteristics",
+              "children": [
+                {
+                  "name": "2.1.3.5: Culture/religion"
+                },
+                {
+                  "name": "2.1.3.1: Population awareness(L/M/H)"
+                },
+                {
+                  "name": "2.1.3.3: Population compliance/law abiding (L/M/H)"
+                },
+                {
+                  "name": "2.1.3.2: Population familiarity/experience (L/M/H)"
+                },
+                {
+                  "name": "2.1.3.4: Population language"
+                }
+              ]
+            },
+            {
+              "name": "2.1.1: Population-testing targets group/type/mode",
+              "children": [
+                {
+                  "name": "2.1.1.2: Animal & other life forms",
+                  "children": [
+                    {
+                      "name": "2.1.1.2.4: Domestic-individuals"
+                    },
+                    {
+                      "name": "2.1.1.2.1: Laboratory animals"
+                    },
+                    {
+                      "name": "2.1.1.2.2: Livestock-individuals"
+                    },
+                    {
+                      "name": "2.1.1.2.3: Livestock-small herd"
+                    },
+                    {
+                      "name": "2.1.1.2.5: Other life forms"
+                    }
+                  ]
+                },
+                {
+                  "name": "2.1.1.1: Human",
+                  "children": [
+                    {
+                      "name": "2.1.1.1.1: Individuals-aware"
+                    },
+                    {
+                      "name": "2.1.1.1.2: Individuals-unaware"
+                    },
+                    {
+                      "name": "2.1.1.1.4: Small group-aware/able"
+                    },
+                    {
+                      "name": "2.1.1.1.3: Small group-unaware/unable"
+                    }
+                  ]
+                },
+                {
+                  "name": "2.1.1.3: Insects"
+                },
+                {
+                  "name": "2.1.1.4: Plants & insects & other environmental targets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3: Target and facility parameters",
+      "children": [
+        {
+          "name": "3.1: Sites for target placement: Aerosol, gas, surface delivery targeting people",
+          "children": [
+            {
+              "name": "3.1.1: Target modes & types by inhalational/dermal",
+              "children": [
+                {
+                  "name": "3.1.1.1: Indoor-buildings",
+                  "children": [
+                    {
+                      "name": "3.1.1.1.4: Commercial/industrial facilities"
+                    },
+                    {
+                      "name": "3.1.1.1.2: Government-legislative building"
+                    },
+                    {
+                      "name": "3.1.1.1.3: Government & military facilities"
+                    },
+                    {
+                      "name": "3.1.1.1.6: Postal facility"
+                    },
+                    {
+                      "name": "3.1.1.1.1: Public",
+                      "children": [
+                        {
+                          "name": "3.1.1.1.1.6: Academic"
+                        },
+                        {
+                          "name": "3.1.1.1.1.1: Entertainment-retail/shopping mall"
+                        },
+                        {
+                          "name": "3.1.1.1.1.2: Entertainment-theater"
+                        },
+                        {
+                          "name": "3.1.1.1.1.3: Indoor stadium/sporting/arena"
+                        },
+                        {
+                          "name": "3.1.1.1.1.8: Medical/hospital"
+                        },
+                        {
+                          "name": "3.1.1.1.1.9: Museum"
+                        },
+                        {
+                          "name": "3.1.1.1.1.7: Office building"
+                        },
+                        {
+                          "name": "3.1.1.1.1.4: Political"
+                        },
+                        {
+                          "name": "3.1.1.1.1.5: Religious center"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3.1.1.1.5: Residential"
+                    }
+                  ]
+                },
+                {
+                  "name": "3.1.1.2: Indoor-transit",
+                  "children": [
+                    {
+                      "name": "3.1.1.2.8: Airplanes-passenger"
+                    },
+                    {
+                      "name": "3.1.1.2.9: Air vehicles-commercial"
+                    },
+                    {
+                      "name": "3.1.1.2.11: Cruise ships"
+                    },
+                    {
+                      "name": "3.1.1.2.6: Rail/trains-cargo"
+                    },
+                    {
+                      "name": "3.1.1.2.7: Rail/trains-passenger"
+                    },
+                    {
+                      "name": "3.1.1.2.10: Sea vehicles-commercial"
+                    },
+                    {
+                      "name": "3.1.1.2.5: Subway/commuter vehicles"
+                    },
+                    {
+                      "name": "3.1.1.2.2: Transport hub-airport terminal"
+                    },
+                    {
+                      "name": "3.1.1.2.4: Transport hub-other land"
+                    },
+                    {
+                      "name": "3.1.1.2.3: Transport hub-sea (Docks)"
+                    },
+                    {
+                      "name": "3.1.1.2.1: Transport hub-subway station"
+                    }
+                  ]
+                },
+                {
+                  "name": "3.1.1.3: Outdoor",
+                  "children": [
+                    {
+                      "name": "3.1.1.3.6: Industrial"
+                    },
+                    {
+                      "name": "3.1.1.3.7: Military"
+                    },
+                    {
+                      "name": "3.1.1.3.4: Residential"
+                    },
+                    {
+                      "name": "3.1.1.3.5: Rural"
+                    },
+                    {
+                      "name": "3.1.1.3.1: Stadium"
+                    },
+                    {
+                      "name": "3.1.1.3.2: Urban center"
+                    },
+                    {
+                      "name": "3.1.1.3.3: Urban event"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3.1.2: Target modes & types delivered by dermal",
+              "children": [
+                {
+                  "name": "3.1.2.2: Hand sanitizer"
+                },
+                {
+                  "name": "3.1.2.1: Railing (escalator, other)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3.2: Sites for target placement: Water/food/commodity targeting people",
+          "children": [
+            {
+              "name": "3.2.1: Target modes and types by ingestion/dermal",
+              "children": [
+                {
+                  "name": "3.2.1.2: Food & commodities (Dependent on exact food processes)",
+                  "children": [
+                    {
+                      "name": "3.2.1.2.1: By commodity/food type",
+                      "children": [
+                        {
+                          "name": "3.2.1.2.1.3: Foods & bottled water: See CTRA rep. foods list"
+                        },
+                        {
+                          "name": "3.2.1.2.1.1: Medicines/drugs/cosmetics"
+                        },
+                        {
+                          "name": "3.2.1.2.1.2: Other merchandise"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3.2.1.2.2: By food process stage",
+                      "children": [
+                        {
+                          "name": "3.2.1.2.2.3: Into live animal (e.g. BSE, parasites)"
+                        },
+                        {
+                          "name": "3.2.1.2.2.2: Silo (Pre-processing aggregation)"
+                        },
+                        {
+                          "name": "3.2.1.2.2.4: Slaughterhouse"
+                        },
+                        {
+                          "name": "3.2.1.2.2.1: Tanker/truck"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3.2.1.1: Water (Directly targeting human consumption)",
+                  "children": [
+                    {
+                      "name": "3.2.1.1.1: Residential/municipal water network",
+                      "children": [
+                        {
+                          "name": "3.2.1.1.1.4: Apartment/public multi user (Apartment back flush)"
+                        },
+                        {
+                          "name": "3.2.1.1.1.5: Apartment/public multi user-at-hydrant (Hydrant back flush)"
+                        },
+                        {
+                          "name": "3.2.1.1.1.3: Drinking water, post plant"
+                        },
+                        {
+                          "name": "3.2.1.1.1.2: Drinking water supply at plant"
+                        },
+                        {
+                          "name": "3.2.1.1.1.1: Reservoir"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
